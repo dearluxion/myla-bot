@@ -1,0 +1,6 @@
+discord.py
+yt-dlp
+google-generativeai
+flask
+pynacl
+ffmpeg
