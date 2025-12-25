@@ -3,4 +3,4 @@ yt-dlp
 google-generativeai
 flask
 pynacl
-ffmpeg
+static-ffmpeg
